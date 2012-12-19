@@ -1,4 +1,4 @@
 garc
 ====
 
-Garbled Arithmetic Circuit
+Garbled Arithmetic Circuits
